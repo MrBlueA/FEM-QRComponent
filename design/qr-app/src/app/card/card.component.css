@@ -1,0 +1,21 @@
+.row-grid-2 {
+  display: grid;
+  grid-auto-flow: row;
+  text-align: center;
+}
+
+.responsiveImg {
+  border-radius: 15px;
+  max-width: 100%;
+  height: auto;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 20px;
+}
+
+p {
+  font-weight: 400;
+  font-size: 15px;
+}
