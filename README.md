@@ -25,8 +25,7 @@ This is my first project which I used to practice Angular on my journey of learn
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [netlify](https://agl-qr-card.netlify.app/)
 
 ## My process
 
